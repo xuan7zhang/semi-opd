@@ -1,0 +1,306 @@
+{
+ "alf-Semi4-H10@0": {
+  "tok_per_turn": 94.8,
+  "success": 0.078125,
+  "top_actions": [
+   [
+    "inventory",
+    299
+   ],
+   [
+    "look",
+    106
+   ],
+   [
+    "go to cabinet 1",
+    43
+   ],
+   [
+    "examine cabinet 1",
+    37
+   ],
+   [
+    "examine desk 1",
+    36
+   ],
+   [
+    "open cabinet 1",
+    30
+   ],
+   [
+    "go to desk 1",
+    23
+   ],
+   [
+    "use desklamp 1",
+    23
+   ]
+  ]
+ },
+ "alf-Semi4-H10@10": {
+  "tok_per_turn": 238.2,
+  "success": 0.0,
+  "top_actions": [
+   [
+    "$$\n\\boxed{\\text{inventory}}\n$$",
+    74
+   ],
+   [
+    "entory.\n\n**action:** inventory",
+    48
+   ],
+   [
+    ".\n\n**action:** go to cabinet 1",
+    46
+   ],
+   [
+    "is:\n\n$$\n\\boxed{\\text{look}}\n$$",
+    42
+   ],
+   [
+    "xed{\\text{go to cabinet 1}}\n$$",
+    36
+   ],
+   [
+    "\\boxed{\\text{go to desk 1}}\n$$",
+    28
+   ],
+   [
+    "oxed{\\text{go to drawer 1}}\n$$",
+    26
+   ],
+   [
+    ".\n\n**action:** go to cabinet 2",
+    23
+   ]
+  ]
+ },
+ "alf-Semi4-H10@20": {
+  "tok_per_turn": 511.8,
+  "success": 0.0,
+  "top_actions": [
+   [
+    "urrent observation is \"nothing",
+    2
+   ],
+   [
+    "ation is \"nothing happens,\" it",
+    2
+   ],
+   [
+    " action at this point is to **",
+    2
+   ],
+   [
+    "action could also be useful if",
+    2
+   ],
+   [
+    "e most logical next step is to",
+    2
+   ],
+   [
+    "ost logical next step is to **",
+    2
+   ],
+   [
+    "he task is already complete.\n\n",
+    2
+   ],
+   [
+    " environment is not responding",
+    2
+   ]
+  ]
+ },
+ "alf-Semi4-H10@80": {
+  "tok_per_turn": 505.9,
+  "success": 0.0,
+  "top_actions": [
+   [
+    "look",
+    71
+   ],
+   [
+    "inventory",
+    39
+   ],
+   [
+    "go to desk 1",
+    13
+   ],
+   [
+    "$$\n\\boxed{\\text{inventory}}\n$$",
+    11
+   ],
+   [
+    "\\boxed{\\text{go to desk 1}}\n$$",
+    6
+   ],
+   [
+    "go to cabinet 1",
+    5
+   ],
+   [
+    "use desklamp 1",
+    4
+   ],
+   [
+    "and the current observation is",
+    3
+   ]
+  ]
+ },
+ "alf-OPD4-H10@0": {
+  "tok_per_turn": 94.5,
+  "success": 0.09375,
+  "top_actions": [
+   [
+    "inventory",
+    346
+   ],
+   [
+    "look",
+    81
+   ],
+   [
+    "go to cabinet 1",
+    41
+   ],
+   [
+    "examine desk 1",
+    40
+   ],
+   [
+    "examine cabinet 1",
+    39
+   ],
+   [
+    "open cabinet 1",
+    30
+   ],
+   [
+    "go to desk 1",
+    24
+   ],
+   [
+    "use desklamp 1",
+    24
+   ]
+  ]
+ },
+ "alf-OPD4-H10@10": {
+  "tok_per_turn": 348.4,
+  "success": 0.0703125,
+  "top_actions": [
+   [
+    "inventory",
+    119
+   ],
+   [
+    "look",
+    99
+   ],
+   [
+    "go to cabinet 1",
+    56
+   ],
+   [
+    "examine desk 1",
+    42
+   ],
+   [
+    "go to drawer 1",
+    35
+   ],
+   [
+    "open cabinet 1",
+    29
+   ],
+   [
+    "examine drawer 1",
+    26
+   ],
+   [
+    "examine cabinet 1",
+    26
+   ]
+  ]
+ },
+ "alf-OPD4-H10@20": {
+  "tok_per_turn": 423.7,
+  "success": 0.1640625,
+  "top_actions": [
+   [
+    "go to cabinet 1",
+    73
+   ],
+   [
+    "go to drawer 1",
+    54
+   ],
+   [
+    "open cabinet 1",
+    43
+   ],
+   [
+    "open drawer 1",
+    38
+   ],
+   [
+    "go to desk 1",
+    33
+   ],
+   [
+    "look",
+    29
+   ],
+   [
+    "go to cabinet 2",
+    28
+   ],
+   [
+    "open cabinet 2",
+    27
+   ]
+  ]
+ },
+ "alf-OPD4-H10@80": {
+  "tok_per_turn": 375.1,
+  "success": 0.1796875,
+  "top_actions": [
+   [
+    "go to drawer 1",
+    101
+   ],
+   [
+    "go to cabinet 1",
+    88
+   ],
+   [
+    "open drawer 1",
+    57
+   ],
+   [
+    "open cabinet 1",
+    45
+   ],
+   [
+    "go to cabinet 2",
+    44
+   ],
+   [
+    "look",
+    43
+   ],
+   [
+    "go to desk 1",
+    38
+   ],
+   [
+    "examine desk 1",
+    34
+   ]
+  ]
+ }
+}
